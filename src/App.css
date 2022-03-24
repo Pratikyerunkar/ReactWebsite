@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Lemonada:wght@300&family=Montaga&family=Nosifer&display=swap');
+
+h1{
+  color: #fff;
+}
+
+.App {
+  text-align: center;
+  background-color: #050D22;
+  box-sizing: border-box;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}

@@ -1,0 +1,26 @@
+#cta{
+  margin: 12%;
+}
+
+.cta-heading{
+  color: #fff;
+  font-size: 2.9rem;
+  font-family: Lemonada;
+  margin-bottom: 2.5rem;
+}
+
+.explore-btn {
+  margin: 1rem;
+  width: 25%;
+  color: #fff;
+}
+
+.btns{
+  background-color: #050D22;
+  color: #fff;
+  border: 1px solid #0046ea;
+}
+
+.btns:hover{
+  background-color: #527cdd;
+}

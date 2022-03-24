@@ -1,0 +1,62 @@
+html{
+  background-color: #050D22;
+}
+
+.App{
+  min-height: 0;
+}
+
+.about-container{
+  width: 800px;
+  margin: 0 auto;
+  background-color: #fff;
+}
+
+.about{
+  margin-bottom: 3%;
+}
+
+
+.image{
+  display: flex;
+}
+
+.img{
+  width: 40%;
+}
+
+.title-image{
+  width: 100%;
+}
+
+.about-heading{
+  position: relative;
+  width: 480px;
+  background-color: white;
+}
+
+.heading{
+  position:relative;
+}
+
+.about-para{
+  padding: 20px;
+  font-family: Lemonada;
+  color: #050D22;
+  text-indent: 50px;
+  letter-spacing: 1px;
+  line-height: 1.5;
+
+}
+
+.about-headers{
+  font-family: Nosifer;
+  color: #050D22;
+  padding-top: 3%;
+}
+
+.heading{
+  font-family: Montaga;
+  color: #050D22;
+
+}
